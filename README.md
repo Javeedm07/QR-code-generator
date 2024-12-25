@@ -9,13 +9,13 @@ Features 🚀
 - Simple and responsive design
 
 How to Use 🛠️
-1. Clone the project
+1. Clone the project: 
      git clone https://github.com/Javeedm07/QR-code-generator.git
    
-2. Install dependencies
+2. Install dependencies: 
      npm install
    
-3. Start the server
+3. Start the server: 
      npm start
    
 5. Open in browser:
